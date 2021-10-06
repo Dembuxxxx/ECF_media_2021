@@ -1,0 +1,9 @@
+{
+    "require": {
+        "symfony/orm-pack": "^2.1",
+        "sensio/framework-extra-bundle": "^6.2"
+    },
+    "require-dev": {
+        "symfony/maker-bundle": "^1.34"
+    }
+}
