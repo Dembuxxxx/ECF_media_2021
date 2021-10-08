@@ -51,6 +51,7 @@ class ComposerStaticInitc4b80a3b48a4f5a552f61ee2c8ce2bd7
             'Symfony\\Component\\Console\\' => 26,
             'Symfony\\Component\\Config\\' => 25,
             'Symfony\\Component\\Cache\\' => 24,
+            'Symfony\\Component\\Asset\\' => 24,
             'Symfony\\Bundle\\MakerBundle\\' => 27,
             'Symfony\\Bundle\\FrameworkBundle\\' => 31,
             'Symfony\\Bridge\\ProxyManager\\' => 28,
@@ -201,6 +202,10 @@ class ComposerStaticInitc4b80a3b48a4f5a552f61ee2c8ce2bd7
         'Symfony\\Component\\Cache\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/cache',
+        ),
+        'Symfony\\Component\\Asset\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/asset',
         ),
         'Symfony\\Bundle\\MakerBundle\\' => 
         array (

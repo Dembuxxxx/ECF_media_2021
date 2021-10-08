@@ -59,6 +59,7 @@ final class Versions
   'psr/event-dispatcher' => '1.0.0@dbefd12671e8a14ec7f180cab83036ed26714bb0',
   'psr/log' => '1.1.4@d49695b909c3b7628b6289db5479a1c204601f11',
   'sensio/framework-extra-bundle' => 'v6.2.0@3f5b6490878f8a70ba702e9692007cf979b42f0e',
+  'symfony/asset' => 'v5.3.4@9bd222a8fdd13ecca91384e403247103198f80a1',
   'symfony/cache' => 'v5.3.8@945bcebfef0aeef105de61843dd14105633ae38f',
   'symfony/cache-contracts' => 'v2.4.0@c0446463729b89dd4fa62e9aeecc80287323615d',
   'symfony/config' => 'v5.3.4@4268f3059c904c61636275182707f81645517a37',
@@ -93,7 +94,7 @@ final class Versions
   'symfony/var-exporter' => 'v5.3.8@a7604de14bcf472fe8e33f758e9e5b7bf07d3b91',
   'nikic/php-parser' => 'v4.13.0@50953a2691a922aa1769461637869a0a2faa3f53',
   'symfony/maker-bundle' => 'v1.34.0@c1ead8581cddeb4b2b9dcc8a3f00910093c4e5e8',
-  '__root__' => 'dev-main@bfa2f675c018fdd3f8c8206ef1d3ad57838f0ca6',
+  '__root__' => 'dev-main@112d09ed73409f2eebbbfd8456dc8b0114e80032',
 );
 
     private function __construct()
